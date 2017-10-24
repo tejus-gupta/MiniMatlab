@@ -1,8 +1,6 @@
 # MiniMatlab
 A compiler for MiniMatlab language (a subset of Matlab).
 
-Supported Functionality:
-
 Data Types: void, char, int, double and matrix
 
 
@@ -17,6 +15,10 @@ Support all statements excluding:
 
  only 2 dimensional Matrices supported.
 
+ Matrix transpose using .'
+
 Compound assignment operators:
 
 *= /= %= += -= <<= >>= &= ∧= |=
+
+
