@@ -16,3 +16,7 @@ Support all statements excluding:
 4. All Jump statements (jump-statement) except return.
 
  only 2 dimensional Matrices supported.
+
+Compound assignment operators:
+
+*= /= %= += -= <<= >>= &= ∧= |=
