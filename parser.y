@@ -2,6 +2,7 @@
 #include "ass6_12CS30006_translator.h"
 extern int yylex();
 void yyerror(const char *);
+//comment something something
 %}
 
 %union {
